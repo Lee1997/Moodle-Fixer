@@ -3,4 +3,6 @@ A little script I wrote to replace the module code of my university's notes-shar
 
 Finds a course, takes down the name of it, cleans it up and then replaces the text with the cleaned up version.
 
-<a src="https://chrome.google.com/webstore/detail/moodle-module-code-fixer/nfokiacfbfiibpgbpllkaeneohpcdknl">Get the chrome extension now!</a>
+Get the chrome extension now!
+
+https://chrome.google.com/webstore/detail/moodle-module-code-fixer/nfokiacfbfiibpgbpllkaeneohpcdknl
